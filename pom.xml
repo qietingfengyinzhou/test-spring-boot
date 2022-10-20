@@ -50,7 +50,7 @@
             <dependency>
                 <groupId>org.jboss.resteasy</groupId>
                 <artifactId>resteasy-core</artifactId>
-                <version>4.1.0</version>
+                <version>4.1.1.Final</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
